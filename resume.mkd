@@ -1,0 +1,35 @@
+#Christopher Stafford
+Infrastructure and Automation Engineer
+
+---
+<center>**Specialities:** Chef, Development Operations, Linux and Windows System Administration and Automation</center>
+
+---
+
+###Professional Experience
+
+Since 2011: Infrastructure Engineer for interlinkONE
+            
+>>Designed and automated the building and configuration of systems using Chef to host multiple web based applications in Amazon's Electronic Compute Clouds. Created processes and workflow for developing and deploying these web applications.
+
+2010: Consultant for Auxzillium
+
+>>Administered and maintaned Windows Domain environments for multiple small to medium business clients.
+
+2007 to 2009: IT Administrator for Ultraguard
+
+>>Administered and maintained the Windows domain and provided help desk support for all employees.
+
+2004 to 2006: Junior Developer for interlinkONE
+
+>>Developed and tested a hosted fulfillment software solution.
+
+---
+
+###Education
+
+Current: Pursuing a degree in Computer Science at UMass Lowell
+
+2009: United States Army Signal Center
+
+2006: Shawsheen Valley Vocational High School
