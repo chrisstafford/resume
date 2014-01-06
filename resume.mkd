@@ -30,6 +30,9 @@ Since 2011: Infrastructure Engineer for interlinkONE
 
 Current: Pursuing a degree in Computer Science at UMass Lowell
 
-2009: United States Army Signal Center
+2009: United States Army Signal Center - Information Systems Operator-Analyst Course 
+>>Information Assurance (IA), Configuration, troubleshooting, and repair of computer systems and their components to include assembly/dis-assembly of computers using UNIX and Windows operating systems. installation/configuration of routers and switches and basic networking.
 
-2006: Shawsheen Valley Vocational High School
+
+2006: Shawsheen Valley Vocational High School - Computer Science & Information Technology
+>>Programming, Database Management Systems, Local Area Network Administration and Support, Web Site Design and Management, Digital Video Creation, PC and Network Security, PC Configuration/Maintenance and Administration, Applied Computer Science/Internet Technology Mathematics, Science and Theory
